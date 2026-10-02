@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-369e96d314.vgknwww.cn/sitemap.xml
